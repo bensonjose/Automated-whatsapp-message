@@ -6,7 +6,7 @@ import pywhatkit
 
 
 # Mention the phone number with Country Code
-pywhatkit.sendwhatmsg('+919923643968', "Hello Benson, How're you? Hope you are fine!!!!", 11,48)
+pywhatkit.sendwhatmsg('+91', "Hello, How're you? Hope you are fine!!!!", 11,48)
 
 
 # Voila! That's all. Go on Happy Messaging!!
